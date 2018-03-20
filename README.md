@@ -13,8 +13,10 @@ Arc for TM1 is the ultimate modern developer tool for TM1 and Planning Analytics
 * **Auto-complete**.
 * User-defined **snippets**.
 * User-defined **plugins** and **pages**.
-    
 
+## Download
+To view more information about **Arc** and to **download** the latest version go to [https://code.cubewise.com/arc](https://code.cubewise.com/arc)
+    
 ## How to submit a enhancement request or bug
 1. Click on the Issues tab at the top of this page.
 1. **BEFORE** submitting a new issue please search the current issues to see if it already exists.
