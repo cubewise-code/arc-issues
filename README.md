@@ -32,8 +32,8 @@ You can also sign-up to our **Beta Program** to get access to the [**Arc Forum**
     * Provide as many screenshots as possible.
 1. Click on **Submit new issue**.
 
-## [Release Notes](tree/master/releases)
-* [v0.9.2 - 21st of March 2018](tree/master/release/v0.9.2.md)
-* [v0.9.1 - 20th of March 2018](tree/master/release/v0.9.1.md)
+## [Release Notes](releases)
+* [v0.9.2 - 21st of March 2018](releases/v0.9.2.md)
+* [v0.9.1 - 20th of March 2018](releases/v0.9.1.md)
 
 
