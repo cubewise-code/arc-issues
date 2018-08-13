@@ -33,6 +33,7 @@ You can also sign-up to our **Beta Program** to get access to the [**Arc Forum**
 1. Click on **Submit new issue**.
 
 ## Release Notes
+* [v1.0.0 - 13th of August 2018](releases/v1.0.0.md)
 * [v0.9.7 - 4th of May 2018](releases/v0.9.7.md)
 * [v0.9.5/0.9.6 - 3rd of May 2018](releases/v0.9.5.md)
 * [v0.9.4 - 13th of April 2018](releases/v0.9.4.md)
