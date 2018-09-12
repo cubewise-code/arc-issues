@@ -31,7 +31,7 @@ To view more information about **Arc** and **download** the latest version, go t
 1. Click on **Submit new issue**.
 
 ## Release Notes
-* [v1.1.0 - 19th of September 2018](releases/v1.1.0.md)
+* [v1.1.0 - 12th of September 2018](releases/v1.1.0.md)
 * [v1.0.0 - 13th of August 2018](releases/v1.0.0.md)
 * [v0.9.7 - 4th of May 2018](releases/v0.9.7.md)
 * [v0.9.5/0.9.6 - 3rd of May 2018](releases/v0.9.5.md)
