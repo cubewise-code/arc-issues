@@ -1,10 +1,6 @@
-# [Arc issues have been moved to https://support.cubewise.com/code/arc](https://support.cubewise.com/code/arc)
+# [Arc issues have been moved to https://support.cubewise.com/code/arc/issues](https://support.cubewise.com/code/arc/issues)
 
 ---
----
-
-# Arc for TM1 Issues
-The place for users to track and post issues for Arc for TM1, the TM1/Planning Analytics development tool by Cubewise.
 
 ## About Arc for TM1
 <img align="right" width="50%" src="https://static1.squarespace.com/static/5268c662e4b0269256614e9a/t/5ab047476d2a73ff3a99a5fc/1521502030061/arc-logo.png?format=1000w" />
