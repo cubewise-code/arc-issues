@@ -1,4 +1,5 @@
-# [Arc issues have been moved to https://support.cubewise.com/code/arc/issues](https://support.cubewise.com/code/arc/issues)
+# Arc issues have been moved to:
+# &nbsp;&nbsp;&nbsp;[https://support.cubewise.com/code/arc/issues](https://support.cubewise.com/code/arc/issues)
 
 <br/>
 <br/>
